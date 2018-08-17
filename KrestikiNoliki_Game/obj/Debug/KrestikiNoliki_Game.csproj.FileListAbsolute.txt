@@ -1,0 +1,39 @@
+C:\Users\kiraz\Documents\Visual Studio 2017\Projects\KrestikiNoliki_Game\KrestikiNoliki_Game\bin\Debug\KrestikiNoliki_Game.exe.config
+C:\Users\kiraz\Documents\Visual Studio 2017\Projects\KrestikiNoliki_Game\KrestikiNoliki_Game\bin\Debug\KrestikiNoliki_Game.exe
+C:\Users\kiraz\Documents\Visual Studio 2017\Projects\KrestikiNoliki_Game\KrestikiNoliki_Game\bin\Debug\KrestikiNoliki_Game.pdb
+C:\Users\kiraz\Documents\Visual Studio 2017\Projects\KrestikiNoliki_Game\KrestikiNoliki_Game\obj\Debug\KrestikiNoliki_Game.csprojResolveAssemblyReference.cache
+C:\Users\kiraz\Documents\Visual Studio 2017\Projects\KrestikiNoliki_Game\KrestikiNoliki_Game\obj\Debug\KrestikiNoliki_Game.Properties.Resources.resources
+C:\Users\kiraz\Documents\Visual Studio 2017\Projects\KrestikiNoliki_Game\KrestikiNoliki_Game\obj\Debug\KrestikiNoliki_Game.csproj.GenerateResource.Cache
+C:\Users\kiraz\Documents\Visual Studio 2017\Projects\KrestikiNoliki_Game\KrestikiNoliki_Game\obj\Debug\KrestikiNoliki_Game.exe
+C:\Users\kiraz\Documents\Visual Studio 2017\Projects\KrestikiNoliki_Game\KrestikiNoliki_Game\obj\Debug\KrestikiNoliki_Game.pdb
+C:\Users\kiraz\Documents\Visual Studio 2017\Projects\KrestikiNoliki_Game\KrestikiNoliki_Game\obj\Debug\KrestikiNoliki_Game.Game.resources
+C:\Users\kiraz\Documents\Visual Studio 2017\Projects\KrestikiNoliki_Game\KrestikiNoliki_Game\obj\Debug\KrestikiNoliki_Game.GameInfo.resources
+C:\Users\kiraz\Documents\Visual Studio 2017\Projects\KrestikiNoliki_Game\KrestikiNoliki_Game\obj\Debug\KrestikiNoliki_Game.ChoosingFirstStep.resources
+C:\Users\kiraz\Documents\Visual Studio 2017\Projects\KrestikiNoliki_Game\KrestikiNoliki_Game\obj\Debug\KrestikiNoliki_Game.Titul_Form.resources
+C:\Users\kiraz\Documents\Visual Studio 2017\Projects\KrestikiNoliki_Game\KrestikiNoliki_Game\obj\Debug\KrestikiNoliki_Game.MainForm.resources
+C:\Users\kiraz\Documents\Visual Studio 2017\Projects\KrestikiNoliki_Game — копия\KrestikiNoliki_Game\bin\Debug\KrestikiNoliki_Game.exe.config
+C:\Users\kiraz\Documents\Visual Studio 2017\Projects\KrestikiNoliki_Game — копия\KrestikiNoliki_Game\bin\Debug\KrestikiNoliki_Game.exe
+C:\Users\kiraz\Documents\Visual Studio 2017\Projects\KrestikiNoliki_Game — копия\KrestikiNoliki_Game\bin\Debug\KrestikiNoliki_Game.pdb
+C:\Users\kiraz\Documents\Visual Studio 2017\Projects\KrestikiNoliki_Game — копия\KrestikiNoliki_Game\obj\Debug\KrestikiNoliki_Game.csprojResolveAssemblyReference.cache
+C:\Users\kiraz\Documents\Visual Studio 2017\Projects\KrestikiNoliki_Game — копия\KrestikiNoliki_Game\obj\Debug\KrestikiNoliki_Game.ChoosingFirstStep.resources
+C:\Users\kiraz\Documents\Visual Studio 2017\Projects\KrestikiNoliki_Game — копия\KrestikiNoliki_Game\obj\Debug\KrestikiNoliki_Game.Game.resources
+C:\Users\kiraz\Documents\Visual Studio 2017\Projects\KrestikiNoliki_Game — копия\KrestikiNoliki_Game\obj\Debug\KrestikiNoliki_Game.GameInfo.resources
+C:\Users\kiraz\Documents\Visual Studio 2017\Projects\KrestikiNoliki_Game — копия\KrestikiNoliki_Game\obj\Debug\KrestikiNoliki_Game.MainForm.resources
+C:\Users\kiraz\Documents\Visual Studio 2017\Projects\KrestikiNoliki_Game — копия\KrestikiNoliki_Game\obj\Debug\KrestikiNoliki_Game.Properties.Resources.resources
+C:\Users\kiraz\Documents\Visual Studio 2017\Projects\KrestikiNoliki_Game — копия\KrestikiNoliki_Game\obj\Debug\KrestikiNoliki_Game.Titul_Form.resources
+C:\Users\kiraz\Documents\Visual Studio 2017\Projects\KrestikiNoliki_Game — копия\KrestikiNoliki_Game\obj\Debug\KrestikiNoliki_Game.csproj.GenerateResource.Cache
+C:\Users\kiraz\Documents\Visual Studio 2017\Projects\KrestikiNoliki_Game — копия\KrestikiNoliki_Game\obj\Debug\KrestikiNoliki_Game.exe
+C:\Users\kiraz\Documents\Visual Studio 2017\Projects\KrestikiNoliki_Game — копия\KrestikiNoliki_Game\obj\Debug\KrestikiNoliki_Game.pdb
+C:\Users\kiraz\Documents\Visual Studio 2017\Projects\Курсовая ПЯВУ Прог-С-16 Железнякова\KrestikiNoliki_Game\KrestikiNoliki_Game\bin\Debug\KrestikiNoliki_Game.exe.config
+C:\Users\kiraz\Documents\Visual Studio 2017\Projects\Курсовая ПЯВУ Прог-С-16 Железнякова\KrestikiNoliki_Game\KrestikiNoliki_Game\bin\Debug\KrestikiNoliki_Game.exe
+C:\Users\kiraz\Documents\Visual Studio 2017\Projects\Курсовая ПЯВУ Прог-С-16 Железнякова\KrestikiNoliki_Game\KrestikiNoliki_Game\bin\Debug\KrestikiNoliki_Game.pdb
+C:\Users\kiraz\Documents\Visual Studio 2017\Projects\Курсовая ПЯВУ Прог-С-16 Железнякова\KrestikiNoliki_Game\KrestikiNoliki_Game\obj\Debug\KrestikiNoliki_Game.csprojResolveAssemblyReference.cache
+C:\Users\kiraz\Documents\Visual Studio 2017\Projects\Курсовая ПЯВУ Прог-С-16 Железнякова\KrestikiNoliki_Game\KrestikiNoliki_Game\obj\Debug\KrestikiNoliki_Game.ChoosingFirstStep.resources
+C:\Users\kiraz\Documents\Visual Studio 2017\Projects\Курсовая ПЯВУ Прог-С-16 Железнякова\KrestikiNoliki_Game\KrestikiNoliki_Game\obj\Debug\KrestikiNoliki_Game.Game.resources
+C:\Users\kiraz\Documents\Visual Studio 2017\Projects\Курсовая ПЯВУ Прог-С-16 Железнякова\KrestikiNoliki_Game\KrestikiNoliki_Game\obj\Debug\KrestikiNoliki_Game.MainForm.resources
+C:\Users\kiraz\Documents\Visual Studio 2017\Projects\Курсовая ПЯВУ Прог-С-16 Железнякова\KrestikiNoliki_Game\KrestikiNoliki_Game\obj\Debug\KrestikiNoliki_Game.Properties.Resources.resources
+C:\Users\kiraz\Documents\Visual Studio 2017\Projects\Курсовая ПЯВУ Прог-С-16 Железнякова\KrestikiNoliki_Game\KrestikiNoliki_Game\obj\Debug\KrestikiNoliki_Game.csproj.GenerateResource.Cache
+C:\Users\kiraz\Documents\Visual Studio 2017\Projects\Курсовая ПЯВУ Прог-С-16 Железнякова\KrestikiNoliki_Game\KrestikiNoliki_Game\obj\Debug\KrestikiNoliki_Game.exe
+C:\Users\kiraz\Documents\Visual Studio 2017\Projects\Курсовая ПЯВУ Прог-С-16 Железнякова\KrestikiNoliki_Game\KrestikiNoliki_Game\obj\Debug\KrestikiNoliki_Game.pdb
+C:\Users\kiraz\Documents\Visual Studio 2017\Projects\Курсовая ПЯВУ Прог-С-16 Железнякова\KrestikiNoliki_Game\KrestikiNoliki_Game\obj\Debug\KrestikiNoliki_Game.GameInfo.resources
+C:\Users\kiraz\Documents\Visual Studio 2017\Projects\Курсовая ПЯВУ Прог-С-16 Железнякова\KrestikiNoliki_Game\KrestikiNoliki_Game\obj\Debug\KrestikiNoliki_Game.Titul_Form.resources
